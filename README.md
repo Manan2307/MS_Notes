@@ -1,6 +1,6 @@
-# ms_notepad
+# ms_note
 
-Notepad Aplplication made with Flutter
+Note Keeping Aplplication made with Flutter
 
 ## Getting Started
 
